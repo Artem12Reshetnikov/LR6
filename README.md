@@ -23,80 +23,80 @@
 ## __Выполнение работы__
 Ввод имени пользователя и email
 
-![Ввод имени пользователя и email](/Images/Screenshot_1.png)
+(/Images/Screenshot_1.png)
 
 
 Клонирование репозитория на компьютер
 
-![Ввод имени пользователя и email](/Images/Screenshot_2.png)
+(/Images/Screenshot_2.png)
 
 
 Добавил файл example.txt и подтянул изменения в нем в локальный репозиторий
 
-![Ввод имени пользователя и email](/Images/Screenshot_3.png)
+(/Images/Screenshot_3.png)
 
 Содержимое файла
 
-![Ввод имени пользователя и email](/Images/Screenshot_14.png)
+(/Images/Screenshot_14.png)
 
 
 Получил историю операций для каждой из веток
 
-![Ввод имени пользователя и email](/Images/Screenshot_4.png)
+(/Images/Screenshot_4.png)
 
 Были созданы две ветки V1 и V2. 
 
-![Ввод имени пользователя и email](/Images/Screenshot_6.png)
+(/Images/Screenshot_6.png)
 
-![Ввод имени пользователя и email](/Images/Screenshot_8.png)
+(/Images/Screenshot_8.png)
 
 В каждой из веток файл example.txt был изменен по разному, это продемонстрировано на скриншотах
 
 Скриншот с изменениями в V1
 
-![Ввод имени пользователя и email](/Images/Screenshot_15.png)
+(/Images/Screenshot_15.png)
 
 Скриншот с изменениями в V2
 
-![Ввод имени пользователя и email](/Images/Screenshot_16.png)
+(/Images/Screenshot_16.png)
 
 Выполнил слияние в ветку мастер вручную
 
-![Ввод имени пользователя и email](/Images/Screenshot_9.png)
+(/Images/Screenshot_9.png)
 
 Содержимое файла example.txt вручную было устаневлено такое как на скриншоте ниже
 
-![Ввод имени пользователя и email](/Images/Screenshot_17.png)
+(/Images/Screenshot_17.png)
 
 Побочные ветки V1 и V2 были удалены
 
-![Ввод имени пользователя и email](/Images/Screenshot_11.png)
+(/Images/Screenshot_11.png)
 
-![Ввод имени пользователя и email](/Images/Screenshot_20.png)
+(/Images/Screenshot_20.png)
 
 В файл example.txt было добавлено 2 изменения и они были зафиксированы комитами
 
-![Ввод имени пользователя и email](/Images/Screenshot_21.png)
+(/Images/Screenshot_21.png)
 
 Первое изменение 
 
-![Ввод имени пользователя и email](/Images/Screenshot_19.png)
+(/Images/Screenshot_19.png)
 
 Второе изменение
 
-![Ввод имени пользователя и email](/Images/Screenshot_18.png)
+(/Images/Screenshot_18.png)
 
 Затем был произведен откат коммита
 
-![Ввод имени пользователя и email](/Images/Screenshot_22.png)
+(/Images/Screenshot_22.png)
 
 Состояние файла после него
 
-![Ввод имени пользователя и email](/Images/Screenshot_19.png)
+(/Images/Screenshot_19.png)
 
 Получил историю операций в форматированном виде 
 
-![Ввод имени пользователя и email](/Images/Screenshot_23.png)
+(/Images/Screenshot_23.png)
 
 ## __Лог команд (без результатов их выполнения)__
 
