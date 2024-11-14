@@ -76,7 +76,7 @@
 
 В файл example.txt было добавлено 2 изменения и они были зафиксированы комитами
 
-![Ввод имени пользователя и email](/Images/Screenshot_12.png)
+![Ввод имени пользователя и email](/Images/Screenshot_21.png)
 
 Первое изменение 
 
@@ -88,10 +88,65 @@
 
 Затем был произведен откат коммита
 
-![Ввод имени пользователя и email](/Images/Screenshot_13.png)
+![Ввод имени пользователя и email](/Images/Screenshot_22.png)
 
 Состояние файла после него
 
 ![Ввод имени пользователя и email](/Images/Screenshot_19.png)
+
+Получил историю операций в форматированном виде 
+
+![Ввод имени пользователя и email](/Images/Screenshot_23.png)
+
+## __Лог команд (без результатов их выполнения)__
+
+git reflog
+
+git checkout report
+
+git checkout master
+
+git checkout V1
+
+git checkout V2
+
+git reset --hard d2db345
+
+git commit -m "второе изменение файла"
+
+git commit -m "первое изменение файла"
+
+git commit -m "добавил в папку новый скриншот"
+
+git commit -m "Изменил файл example.txt вручную чтобы избежать конфликт"
+
+git add example.txt
+
+git add README.md
+
+git add Images
+
+git push origin report
+
+git branch -d V2
+
+git branch -d V1
+
+git branch V2
+
+git branch V1
+
+git merge V2
+
+git merge V1
+
+git push origin report
+
+git push origin master
+
+
+
+
+
 
 
