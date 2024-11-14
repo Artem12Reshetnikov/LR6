@@ -96,11 +96,11 @@
 
 Получил историю операций в форматированном виде 
 
-![Ввод имени пользователя и email](/Images/Screenshot_23.png)
+![Ввод имени пользователя и email](/Images/Screenshot_24.png)
 
 ## __Лог команд (без результатов их выполнения)__
-
-git reflog
+```bash
+git log --pretty=format:"%h %ad | %s%d [%an]" --date=short
 
 git checkout report
 
@@ -143,7 +143,7 @@ git merge V1
 git push origin report
 
 git push origin master
-
+```
 
 
 
